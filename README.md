@@ -18,6 +18,8 @@ Projeto desenvolvido durante o **Mini curso de Programação na prática** de [[
 
 O objetivo é criar uma ferramenta de estudos utilizando um chatbot para responder dúvidas na área de programação.
 
+Link para o [Teach.me](https://luaramaciel.github.io/Teach.me/) !
+
 ---
 ## 🛠 Tecnologias
 
