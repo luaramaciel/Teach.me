@@ -23,8 +23,8 @@ O objetivo é criar uma ferramenta de estudos utilizando um chatbot para respond
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   HTML
--   CSS
+-   HTML ✔️
+-   CSS ✔️
 -   REACT
 -   IBM WATSON
 ---
